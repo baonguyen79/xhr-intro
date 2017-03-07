@@ -1,0 +1,22 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type":"T-Rex",
+			"food":"smaller dinosaurs",
+			"url":"http://vignette3.wikia.nocookie.net/dinosaurs/images/0/00/Outrun-t-rex-orig.jpg/revision/latest?cb=20150213222749"
+		},
+		{
+			"name": "Steve",
+			"type":"Stegosaurus",
+			"food":"leaves",
+			"url":"http://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440/Stegosaurus_guulyh.jpg"
+		},
+		{
+			"name": "Peter",
+			"type":"Pterodactyl",
+			"food":"birds",
+			"url":"http://images.dinosaurpictures.org/pterodactyl-adrian-chesterman_54f6.jpg"
+		}
+	]
+}
